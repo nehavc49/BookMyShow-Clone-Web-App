@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117587654364",
+    "project_id": "bookmysh-9798e",
+    "storage_bucket": "bookmysh-9798e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117587654364:android:0daa88d297b1f808c9a619",
+        "android_client_info": {
+          "package_name": "com.example.bookmysht"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCurLKaes-ayeoK3racF5SrlvPv8k0z-Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
